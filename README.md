@@ -9,9 +9,6 @@
 <div align="center">
 
 <p>
-  <a href="https://github.com/rachittyagi01">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
   <a href="https://www.linkedin.com/in/rachittyagi1200/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>

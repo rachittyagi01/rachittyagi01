@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/rachittyagi1200/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.instagram.com/rachit_.tyagiii/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
   <a href="mailto:tyagirachitrt@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>

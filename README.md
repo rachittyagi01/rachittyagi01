@@ -76,7 +76,6 @@ I enjoy turning ideas into working products, with hands-on experience in testing
   <picture><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" /></picture>&nbsp;
-  <picture><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></picture>
 </p>
 
 -----
@@ -131,15 +130,6 @@ I enjoy turning ideas into working products, with hands-on experience in testing
   <picture><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></picture>&nbsp;
   <picture><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></picture>
-</p>
-
------
-
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rachittyagi01&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DCFFF&text_color=ffffff&icon_color=7DCFFF&rank_icon=github" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachittyagi01&hide_border=true&background=00000000&ring=7DCFFF&fire=7DCFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7DCFFF&sideLabels=cccccc&dates=999999" alt="GitHub Streak" height="165" />
 </p>
 
 -----
